@@ -7,7 +7,7 @@ about:
   head: 17447ea
   archived: false
   latestVersion: v0.2.0
-  collectedAt: 2026-09-04T19:40:42Z
+  collectedAt: 2026-09-04T20:51:45Z
 timeline:
   created: 2018-01-10
   lastCommit: 2025-04-21
@@ -80,5 +80,28 @@ total:
   openIssue: 0
   commit: 68
 ---
+path: /home/runner/.x-repo/github.com/elementalvoid/tonnage
+collectedAt: 2026-09-04T20:51:46Z
+loc:
+  Go:
+    code: 343
+    comments: 9
+    blanks: 43
+    files: 2
+  Toml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 141
+    blanks: 32
+    files: 1
+total:
+  code: 346
+  comments: 150
+  blanks: 75
+  files: 4
 ---
 
