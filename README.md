@@ -22,7 +22,20 @@ x install tonnage
 - **Latest**: `v0.2.0` (2024-07-15)
 - **Last commit**: 2025-04-21
 - **Assets in release**: 9
-- **Published**: 2024-07-15T20:07:21Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/checksums.txt) | 801 B | `other` |
+| [tonnage_0.2.0_Darwin_arm64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Darwin_arm64.tar.gz) | 11.2 MiB | `native/darwin/arm64` |
+| [tonnage_0.2.0_Darwin_x86_64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Darwin_x86_64.tar.gz) | 11.9 MiB | `native/darwin/x64` |
+| [tonnage_0.2.0_Linux_arm64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Linux_arm64.tar.gz) | 10.8 MiB | `native/linux/arm64` |
+| [tonnage_0.2.0_Linux_i386.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Linux_i386.tar.gz) | 11.0 MiB | `native/linux/x86` |
+| [tonnage_0.2.0_Linux_x86_64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Linux_x86_64.tar.gz) | 11.8 MiB | `native/linux/x64` |
+| [tonnage_0.2.0_Windows_arm64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Windows_arm64.tar.gz) | 10.8 MiB | `native/win/arm64` |
+| [tonnage_0.2.0_Windows_i386.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Windows_i386.tar.gz) | 11.5 MiB | `native/win/x64` |
+| [tonnage_0.2.0_Windows_x86_64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Windows_x86_64.tar.gz) | 12.0 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -55,8 +68,8 @@ Total: **346** lines of code across **4** files in the top 5 languages.
 Install metadata for tonnage lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tonnage` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tonnage.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tonnage.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:18:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:00:10Z._

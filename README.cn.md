@@ -4,7 +4,7 @@
 
 Tonnage is a small utility to summarize the resource capacity and allocation of a Kubernetes cluster.
 
-![tonnage](https://repo.x-cmd.io/tonnage.svg)
+![tonnage](https://repo.x-cmd.io/tonnage.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,20 @@ x install tonnage
 - **最新版本**: `v0.2.0` (2024-07-15)
 - **最近提交**: 2025-04-21
 - **Release 含资产**: 9 个
-- **发布时间**: 2024-07-15T20:07:21Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/checksums.txt) | 801 B | `other` |
+| [tonnage_0.2.0_Darwin_arm64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Darwin_arm64.tar.gz) | 11.2 MiB | `native/darwin/arm64` |
+| [tonnage_0.2.0_Darwin_x86_64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Darwin_x86_64.tar.gz) | 11.9 MiB | `native/darwin/x64` |
+| [tonnage_0.2.0_Linux_arm64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Linux_arm64.tar.gz) | 10.8 MiB | `native/linux/arm64` |
+| [tonnage_0.2.0_Linux_i386.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Linux_i386.tar.gz) | 11.0 MiB | `native/linux/x86` |
+| [tonnage_0.2.0_Linux_x86_64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Linux_x86_64.tar.gz) | 11.8 MiB | `native/linux/x64` |
+| [tonnage_0.2.0_Windows_arm64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Windows_arm64.tar.gz) | 10.8 MiB | `native/win/arm64` |
+| [tonnage_0.2.0_Windows_i386.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Windows_i386.tar.gz) | 11.5 MiB | `native/win/x64` |
+| [tonnage_0.2.0_Windows_x86_64.tar.gz](https://github.com/elementalvoid/tonnage/releases/download/v0.2.0/tonnage_0.2.0_Windows_x86_64.tar.gz) | 12.0 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -59,4 +72,4 @@ tonnage 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:18:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:00:10Z._
